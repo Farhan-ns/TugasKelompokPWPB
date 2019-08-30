@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas Kelompok PWPB</string>
+
+    <string name="bio_name_farhan">Farhanunnasih</string>
+    <string name="bio_position_farhan">Full-Stack Developer</string>
+    <string name="bio_address_farhan">Bandung, Indonesia</string>
+    <string name="bio_farhan">
+        TTL\t: Bandung, 10 September 2001\n
+        Sekolah\t: SMKN 4 Bandung\n
+        Kelas\t: XII RPL 3
+    </string>
+
+    <!-- iman -->
+    <string name="about">About</string>
+    <string name="hobby">Hobby</string>
+    <string name="contact">Contact</string>
+</resources>

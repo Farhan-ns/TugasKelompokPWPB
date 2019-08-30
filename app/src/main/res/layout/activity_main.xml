@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_margin="@dimen/activity_margin"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/gotoLat2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#141414"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+        android:text="Latihan 2"/>
+
+    <TextView
+        android:id="@+id/gotoLat3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#141414"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+        android:text="Latihan 3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#141414"
+        android:text="Bio Anggota"/>
+    <TextView
+        android:id="@+id/gotoFarhan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:layout_marginBottom="20dp"
+        android:textColor="#141414"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+        android:text="@string/bio_name_farhan"/>
+    <TextView
+        android:id="@+id/gotoIman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#141414"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+        android:text="Immanuel"/>
+    <TextView
+        android:id="@+id/gotoRizki"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#141414"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+        android:text="Rizki Arya Ramadhan"/>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimaryText">#BDBDBD</color>
+    <color name="colorSecondaryText">#757575</color>
+
+    <color name="colorIconOverlay">#1E88E5</color>
+
+    <!-- for mail icon -->
+    <color name="mailColor1">#F44336</color>
+    <color name="mailColor2">#E91E63</color>
+    <color name="mailColor3">#FF5722</color>
+    <color name="mailColor4">#673AB7</color>
+    <color name="mailColor5">#3F51B5</color>
+    <color name="mailColor6">#FFEB3B</color>
+    <color name="mailColor8">#4CAF50</color>
+
+    <!-- iman -->
+    <color name="colorGraylight">#ffff</color>
+    <color name="colorStartRed">#ffff</color>
+    <color name="colorEndRed">#2196F3</color>
+
+
+    <color name="pink">#FCE4EC</color>
+    <color name="color_white_semitransparent">#99FFFFFF</color>
+</resources>
